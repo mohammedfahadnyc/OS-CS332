@@ -11,6 +11,7 @@ Solution here :  https://github.com/mohammedfahadnyc/OS-CS332/tree/main/Lab%201%
 
 Lab 2 
 
-Instruction here : https://github.com/mohammedfahadnyc/OS-CS332/blob/main/all_projects_and_labs/Lab2%20-%20Section%206X(41557).pdf
+Instruction here : 
+        https://github.com/mohammedfahadnyc/OS-CS332/blob/main/all_projects_and_labs/Lab2%20-%20Section%206X(41557).pdf
 
 Solution : https://github.com/mohammedfahadnyc/OS-CS332/tree/main/Lab%202%20Solution 
