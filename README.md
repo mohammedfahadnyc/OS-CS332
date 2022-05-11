@@ -33,3 +33,10 @@ Instructions here : https://github.com/mohammedfahadnyc/OS-CS332/blob/main/all_p
 
 Solution : https://github.com/mohammedfahadnyc/OS-CS332/tree/main/Lab4%20Solution
 
+Lab 4
+
+Instructions here : https://github.com/mohammedfahadnyc/OS-CS332/tree/main/all_projects_and_labs#:~:text=Lab5%2DSection%206X(41557).pdf
+
+
+Solution : https://github.com/mohammedfahadnyc/OS-CS332/tree/main/Lab4%20Solution
+
