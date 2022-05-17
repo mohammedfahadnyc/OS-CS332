@@ -46,7 +46,7 @@ Lab 6
 Instructions here : https://github.com/mohammedfahadnyc/OS-CS332/tree/main/all_projects_and_labs#:~:text=Lab6%2DSection%206X(41557).pdf
 
 
-Solution :https://github.com/mohammedfahadnyc/OS-CS332/tree/main/Lab5%20Solution
+Solution :https://github.com/mohammedfahadnyc/OS-CS332/tree/main/Lab6_Solution
 
 
 
